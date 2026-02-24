@@ -12,6 +12,8 @@ This project is a website built entirely using **Sass**. It showcases various Sa
 
 Check out the live demo: [https://nursaadet.github.io/sass-project/](https://nursaadet.github.io/sass-project/)
 
+<img src="./sassProject.gif" alt="Sass Project Demo" width="600" />
+
 ## 🧑‍💻 Author
 
 [@nursaadet](https://github.com/nursaadet)
